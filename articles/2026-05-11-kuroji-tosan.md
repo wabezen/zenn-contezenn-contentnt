@@ -3,7 +3,7 @@ title: 黒字なのに会社が消える——エンジニア起業家が直面�
 emoji: 💸
 type: idea
 topics: [起業, 経営, 資金繰り, 財務, フリーランス]
-published: false
+published: true
 ---
 
 会計事務所で働いていて、不思議な光景を何度も見てきました。
